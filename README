@@ -1,0 +1,9 @@
+一个简单的game服务端/客户端例子，引擎用C++，逻辑用lua。
+
+允许命令：
+
+服务器:
+cd server && make && ./_engine &
+
+客户端：
+cd client && make && ./_engine &
